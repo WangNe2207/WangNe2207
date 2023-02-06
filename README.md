@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a student of: [University Of Information And Technology]([https://www.uit.edu.vn]).
+- ✍ I'm a student of: [University Of Information And Technology]([https://www.uit.edu.vn](https://www.uit.edu.vn)).
 
 <br />
 
