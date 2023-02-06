@@ -9,7 +9,7 @@
 
 <br />
 
-## 📫 How to reach me:
+## How to reach me:
 <p align="center">
   <a href="https://linkedin.com/in/wangne" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
