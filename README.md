@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://winbuzzer.com/wp-content/uploads/2020/02/github-startups-official.jpg">
+<img align="left" width="400" height="225" src="https://winbuzzer.com/wp-content/uploads/2020/02/github-startups-official.jpg">
 <h1 align="center">Hi 👋, I'm Van Quang</h1>
 <p align="center">
   <h3 align="center">A unity developer from Vietnam 🇻🇳 </h3>
