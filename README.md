@@ -25,17 +25,8 @@
 ## Skills:
 <p align="center">
   <img src="https://th.bing.com/th/id/R.527e50017428a284a5ed7e80c9e77c9e?rik=pTM2kWP3oU3oUA&pid=ImgRaw&r=0" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+  <img src="https://th.bing.com/th/id/OIP.4YRTyaz41qsS7WsziSxyLgHaER?pid=ImgDet&rs=1"/>
+  <img src="https://th.bing.com/th/id/R.93c7ddd5cca5ea68f6c4aeacb1017add?rik=DzoIsLEJLydWCw&pid=ImgRaw&r=0"/>
 </p>
 
 ## Activities:
