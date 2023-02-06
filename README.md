@@ -25,7 +25,7 @@
 ## Skills:
 <p align="center">
   <img src="https://th.bing.com/th/id/R.527e50017428a284a5ed7e80c9e77c9e?rik=pTM2kWP3oU3oUA&pid=ImgRaw&r=0" alt="opencv" width="48" height="48"/> 
-  <img src="https://th.bing.com/th/id/OIP.4YRTyaz41qsS7WsziSxyLgHaER?pid=ImgDet&rs=1" alt="opencv" width="48" height="48"/>
+  <img src="https://yt3.ggpht.com/-n9YqjJCKHak/AAAAAAAAAAI/AAAAAAAAAAA/FJmfOSwUIuc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" alt="opencv" width="48" height="48"/>
   <img src="https://th.bing.com/th/id/R.93c7ddd5cca5ea68f6c4aeacb1017add?rik=DzoIsLEJLydWCw&pid=ImgRaw&r=0" alt="opencv" width="48" height="48"/>
 </p>
 
